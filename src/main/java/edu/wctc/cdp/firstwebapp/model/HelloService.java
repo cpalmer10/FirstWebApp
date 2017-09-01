@@ -1,4 +1,4 @@
-package edu.wctc.jgl.firstwebapp.model;
+package edu.wctc.cdp.firstwebapp.model;
 
 /**
  * The "model" in MVC is where the "business logic" is written. Business logic 
